@@ -1,1 +1,5 @@
-"# PROJECTSOC-129" 
+The first week of the project mainly focused on getting familiar with three important Python libraries—NumPy, Pandas, and Matplotlib. We used NumPy to handle arrays and basic numerical operations. Pandas helped us work with data in table-like formats, making it easier to clean and manage. Matplotlib was used for simple visualizations to better understand the data we were working with.
+
+We then moved on to learning about Count Vectorizer and Cosine Similarity, two key tools in building content-based recommendation systems. Count Vectorizer helps turn text data into numerical form, while Cosine Similarity allows us to compare how similar two pieces of content are. These methods will be useful for recommending movies based on their plot, genre, or cast.
+
+Along with this, we also explored how to merge different datasets into a single master dataset. This helps bring all the important information together in one place for better analysis. Before applying vectorization, we learned some basic text preprocessing steps like tokenization, converting everything to lowercase, removing stopwords, and using stemming or lemmatization. These steps clean the text and make it ready for comparison. Overall, this week set up the basic tools and understanding needed to build a working recommendation system.
